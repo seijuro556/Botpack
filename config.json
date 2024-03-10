@@ -55,8 +55,8 @@
     "cooldownTime": 1200000
   },
   "help": {
-    "autoUnsend": false,
-    "delayUnsend": error
+    "autoUnsend": true,
+    "delayUnsend": 60
   },
   "adminUpdate": {
     "autoUnsend": true,
@@ -64,7 +64,7 @@
     "timeToUnsend": 10
   },
   "adminNoti": {
-    "autoUnsend": false,
+    "autoUnsend": true,
     "sendNoti": true,
     "timeToUnsend": 10
   },
@@ -79,7 +79,7 @@
     "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
   },
   "menu": {
-    "autoUnsend": false,
+    "autoUnsend": true,
     "delayUnsend": 60
   }
 }
