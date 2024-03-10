@@ -19,16 +19,16 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "𝗖𝗛𝗜𝗭𝗨 𝟮.𝟬",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100071761961640",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
     "Title": "BotPack",
     "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Admin": "Tsiaro Sama",
     "Setup": {
       "Info": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
@@ -55,8 +55,8 @@
     "cooldownTime": 1200000
   },
   "help": {
-    "autoUnsend": true,
-    "delayUnsend": 60
+    "autoUnsend": false,
+    "delayUnsend": error
   },
   "adminUpdate": {
     "autoUnsend": true,
@@ -64,7 +64,7 @@
     "timeToUnsend": 10
   },
   "adminNoti": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "sendNoti": true,
     "timeToUnsend": 10
   },
@@ -79,7 +79,7 @@
     "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
   },
   "menu": {
-    "autoUnsend": true,
+    "autoUnsend": false,
     "delayUnsend": 60
   }
 }
